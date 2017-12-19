@@ -1,0 +1,11 @@
+
+Commands:
+ Programms:
+  date - Shows and sets the date and time
+  bash - System command prompt
+ Tools:
+  sleepmode - Keeps the connection alive for tunneling
+  version - Shows version informations
+  help - Shows this text
+  help [application] - Shows application information
+  exit - Closes the connection

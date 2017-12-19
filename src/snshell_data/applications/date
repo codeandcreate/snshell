@@ -1,0 +1,6 @@
+[application]
+name=date
+version=1.0
+description=Shows and sets the date and time
+command=date
+needsParam=1
